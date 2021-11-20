@@ -1,0 +1,51 @@
+[26-Oct-2021 18:20:49 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'efodiaAdmin2463'@'localhost' (using password: YES) in /home/otgpanel2017/public_html/[WEBSITES]/efodia.com/owner/api/signup/confirm/_databaseConnection.php:7
+Stack trace:
+#0 /home/otgpanel2017/public_html/[WEBSITES]/efodia.com/owner/api/signup/confirm/_databaseConnection.php(7): PDO->__construct('mysql:host=loca...', 'efodiaAdmin2463', 'Sami@123')
+#1 /home/otgpanel2017/public_html/[WEBSITES]/efodia.com/owner/api/signup/confirm/_config.php(10): DB->__construct('localhost', 'efodia', 'efodiaAdmin2463', 'Sami@123')
+#2 /home/otgpanel2017/public_html/[WEBSITES]/efodia.com/owner/api/signup/confirm/index.php(18): require_once('/home/otgpanel2...')
+#3 {main}
+  thrown in /home/otgpanel2017/public_html/[WEBSITES]/efodia.com/owner/api/signup/confirm/_databaseConnection.php on line 7
+[26-Oct-2021 18:21:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'efodiaAdmin2463'@'localhost' (using password: YES) in /home/otgpanel2017/public_html/[WEBSITES]/efodia.com/owner/api/signup/confirm/_databaseConnection.php:7
+Stack trace:
+#0 /home/otgpanel2017/public_html/[WEBSITES]/efodia.com/owner/api/signup/confirm/_databaseConnection.php(7): PDO->__construct('mysql:host=loca...', 'efodiaAdmin2463', 'Sami@123')
+#1 /home/otgpanel2017/public_html/[WEBSITES]/efodia.com/owner/api/signup/confirm/_config.php(10): DB->__construct('localhost', 'efodia', 'efodiaAdmin2463', 'Sami@123')
+#2 /home/otgpanel2017/public_html/[WEBSITES]/efodia.com/owner/api/signup/confirm/index.php(18): require_once('/home/otgpanel2...')
+#3 {main}
+  thrown in /home/otgpanel2017/public_html/[WEBSITES]/efodia.com/owner/api/signup/confirm/_databaseConnection.php on line 7
+[26-Oct-2021 18:21:31 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'efodiaAdmin2463'@'localhost' (using password: YES) in /home/otgpanel2017/public_html/[WEBSITES]/efodia.com/owner/api/signup/confirm/_databaseConnection.php:7
+Stack trace:
+#0 /home/otgpanel2017/public_html/[WEBSITES]/efodia.com/owner/api/signup/confirm/_databaseConnection.php(7): PDO->__construct('mysql:host=loca...', 'efodiaAdmin2463', 'Sami@123')
+#1 /home/otgpanel2017/public_html/[WEBSITES]/efodia.com/owner/api/signup/confirm/_config.php(10): DB->__construct('localhost', 'efodia', 'efodiaAdmin2463', 'Sami@123')
+#2 /home/otgpanel2017/public_html/[WEBSITES]/efodia.com/owner/api/signup/confirm/index.php(18): require_once('/home/otgpanel2...')
+#3 {main}
+  thrown in /home/otgpanel2017/public_html/[WEBSITES]/efodia.com/owner/api/signup/confirm/_databaseConnection.php on line 7
+[26-Oct-2021 18:21:49 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'efodiaAdmin2463'@'localhost' (using password: YES) in /home/otgpanel2017/public_html/[WEBSITES]/efodia.com/owner/api/signup/confirm/_databaseConnection.php:7
+Stack trace:
+#0 /home/otgpanel2017/public_html/[WEBSITES]/efodia.com/owner/api/signup/confirm/_databaseConnection.php(7): PDO->__construct('mysql:host=loca...', 'efodiaAdmin2463', 'Sami@123')
+#1 /home/otgpanel2017/public_html/[WEBSITES]/efodia.com/owner/api/signup/confirm/_config.php(10): DB->__construct('localhost', 'efodia', 'efodiaAdmin2463', 'Sami@123')
+#2 /home/otgpanel2017/public_html/[WEBSITES]/efodia.com/owner/api/signup/confirm/index.php(18): require_once('/home/otgpanel2...')
+#3 {main}
+  thrown in /home/otgpanel2017/public_html/[WEBSITES]/efodia.com/owner/api/signup/confirm/_databaseConnection.php on line 7
+[26-Oct-2021 18:22:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'efodiaAdmin2463'@'localhost' (using password: YES) in /home/otgpanel2017/public_html/[WEBSITES]/efodia.com/owner/api/signup/confirm/_databaseConnection.php:7
+Stack trace:
+#0 /home/otgpanel2017/public_html/[WEBSITES]/efodia.com/owner/api/signup/confirm/_databaseConnection.php(7): PDO->__construct('mysql:host=loca...', 'efodiaAdmin2463', 'Sami@123')
+#1 /home/otgpanel2017/public_html/[WEBSITES]/efodia.com/owner/api/signup/confirm/_config.php(10): DB->__construct('localhost', 'efodia', 'efodiaAdmin2463', 'Sami@123')
+#2 /home/otgpanel2017/public_html/[WEBSITES]/efodia.com/owner/api/signup/confirm/index.php(18): require_once('/home/otgpanel2...')
+#3 {main}
+  thrown in /home/otgpanel2017/public_html/[WEBSITES]/efodia.com/owner/api/signup/confirm/_databaseConnection.php on line 7
+[26-Oct-2021 18:23:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'efodiaAdmin2463'@'localhost' (using password: YES) in /home/otgpanel2017/public_html/[WEBSITES]/efodia.com/owner/api/signup/confirm/_databaseConnection.php:7
+Stack trace:
+#0 /home/otgpanel2017/public_html/[WEBSITES]/efodia.com/owner/api/signup/confirm/_databaseConnection.php(7): PDO->__construct('mysql:host=loca...', 'efodiaAdmin2463', 'Sami@123')
+#1 /home/otgpanel2017/public_html/[WEBSITES]/efodia.com/owner/api/signup/confirm/_config.php(10): DB->__construct('localhost', 'efodia', 'efodiaAdmin2463', 'Sami@123')
+#2 /home/otgpanel2017/public_html/[WEBSITES]/efodia.com/owner/api/signup/confirm/index.php(18): require_once('/home/otgpanel2...')
+#3 {main}
+  thrown in /home/otgpanel2017/public_html/[WEBSITES]/efodia.com/owner/api/signup/confirm/_databaseConnection.php on line 7
+[26-Oct-2021 18:29:27 UTC] PHP Notice:  Undefined index: id in /home/otgpanel2017/public_html/[WEBSITES]/efodia.com/owner/api/signup/confirm/index.php on line 15
+[26-Oct-2021 18:29:27 UTC] PHP Notice:  Undefined index: token in /home/otgpanel2017/public_html/[WEBSITES]/efodia.com/owner/api/signup/confirm/index.php on line 16
+[26-Oct-2021 18:29:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'efodiaAdmin2463'@'localhost' (using password: YES) in /home/otgpanel2017/public_html/[WEBSITES]/efodia.com/owner/api/signup/confirm/_databaseConnection.php:7
+Stack trace:
+#0 /home/otgpanel2017/public_html/[WEBSITES]/efodia.com/owner/api/signup/confirm/_databaseConnection.php(7): PDO->__construct('mysql:host=loca...', 'efodiaAdmin2463', 'Sami@123')
+#1 /home/otgpanel2017/public_html/[WEBSITES]/efodia.com/owner/api/signup/confirm/_config.php(10): DB->__construct('localhost', 'efodia', 'efodiaAdmin2463', 'Sami@123')
+#2 /home/otgpanel2017/public_html/[WEBSITES]/efodia.com/owner/api/signup/confirm/index.php(18): require_once('/home/otgpanel2...')
+#3 {main}
+  thrown in /home/otgpanel2017/public_html/[WEBSITES]/efodia.com/owner/api/signup/confirm/_databaseConnection.php on line 7
